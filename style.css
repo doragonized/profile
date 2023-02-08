@@ -13,7 +13,6 @@ h1 {
 
 h2 {
   font-weight: 500;
-  margin-bottom: 50px;
 }
 
 h3 {
@@ -36,7 +35,16 @@ a:hover{
 
 header{
   margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+nav {
   margin-bottom: 80px;
+}
+
+.nav-link {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .profile-pic {
@@ -76,7 +84,7 @@ button {
   height: 300px;
 }
 
-.list-inline > li {
+.list-inline > li, .inline {
   display: inline-block;
 }
 
