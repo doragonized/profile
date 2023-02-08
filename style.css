@@ -42,6 +42,12 @@ nav {
   margin-bottom: 80px;
 }
 
+.nav-about {
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
 .nav-link {
   margin-left: 10px;
   margin-right: 10px;
